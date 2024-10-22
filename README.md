@@ -1,4 +1,4 @@
-# Principios y Patrones del Desarrollo de Software
+# Principios y Patrones del Desarrollo de Software.
 ## Repositorio.
 - Link: https://github.com/mgonzalz/doo_patrones-software.git
 - Usuario: @mgonzalz
